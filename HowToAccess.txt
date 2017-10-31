@@ -1,0 +1,12 @@
+{
+    "name": "ar-htc-acc/testing",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ar-htc-acc/test-composer.git"
+        }
+    ],
+    "require": {
+        "ar-htc-acc/test-composer": "dev-master"
+    }
+}
